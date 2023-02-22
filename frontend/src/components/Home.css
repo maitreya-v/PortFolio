@@ -1,0 +1,27 @@
+h1{
+    font-weight: 700;
+    color: black;
+    line-height: 4rem;
+
+}
+
+h6{
+    color: gray;
+    letter-spacing: 8px;
+}
+
+.home-container,.row{
+    height: 89vh;
+}
+
+
+.typewriter-h1{
+    /* color:rgb(63, 12, 192) ; */
+    color: #8c6dd9;
+}
+
+/* img{
+  background-position: calc(100% + 200px) calc(100% + 200px);
+  background-repeat: no-repeat;
+  background-size: cover;
+} */

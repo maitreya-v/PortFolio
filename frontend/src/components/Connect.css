@@ -1,0 +1,16 @@
+.modal-submit-btn,.modal-submit-btn:active{
+   background-color: #8c6dd9 !important;
+   border: none !important;
+   
+}
+
+
+.modal-form-control:focus{
+    border: 1px solid black !important;
+    outline:4px solid #8c6dd9 !important;
+    transition: all 0.15s;
+}
+
+.btn-close:focus{
+    outline:4px solid #8c6dd9 !important;
+}

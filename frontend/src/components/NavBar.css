@@ -1,0 +1,44 @@
+.nav-brand{
+    font-weight: 500;
+    /* letter-spacing: ; */
+    font-size: x-large;
+}
+
+.nav-brand-folio{
+    color: #8c6dd9;
+}
+
+.nav-link,.nav-brand{
+    letter-spacing: 2px;
+    color: black;
+}
+
+.nav-link:hover{
+    color: #8c6dd9;
+}
+
+.nav-link-span{
+    width:36vw;
+}
+
+.nav-link-btn{
+    background: transparent;
+    color: black;
+    width: 17vw;
+    border: 1px solid black;
+    height: 7vh;
+}
+ .nav-link-btn:hover{
+    color: white;
+    background-color: #8c6dd9;
+    border: none !important;
+    transition: all 0.5s;
+} 
+
+.nav-link-btn:active{
+    background-color: #8c6dd9 !important;
+}
+
+.container{
+    height: 8vh;
+}
